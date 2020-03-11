@@ -73,6 +73,13 @@
           >
             Continue
           </v-btn>
+          <v-btn
+            color="success"
+            nuxt
+            to="/login"
+          >
+            Login
+          </v-btn>
         </v-card-actions>
       </v-card>
     </v-flex>
